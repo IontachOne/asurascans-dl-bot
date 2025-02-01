@@ -1,0 +1,2 @@
+git clone https://github.com/tas33n/AsuraScans-DL-Bot.git
+cd AsuraScans-DL-Bot npm install
